@@ -6,19 +6,19 @@
   "closeExistingTabs": false,
   "websites": [
     {
-      "url": "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/index.html",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 15
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiMmM4NTAwMmItMTUzYi00MTdlLTk1NWItYzBiNjdmYzg2YzhkIiwidCI6Ijk3OTAyMGQ1LTQ5NTAtNGY0My1hOTk0LTg4ZDY4M2VhYjQ3MyJ9&chromeless=1",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 4000
     },
     {
-      "url": "https://www.patreon.com/kevdev",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 15
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiNDBhOTZlYTUtMTdhMS00MTE0LWIzYmItMzE5MGRkNzE2ZGJjIiwidCI6Ijk3OTAyMGQ1LTQ5NTAtNGY0My1hOTk0LTg4ZDY4M2VhYjQ3MyJ9&chromeless=1",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 4000
     },
     {
-      "url": "https://chrome.google.com/webstore/detail/tab-rotate/pjgjpabbgnnoohijnillgbckikfkbjed",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 15
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiN2JiMWQwNjQtZDYzYy00OWI0LWIzYTQtZmE4NDBlYmEyODdjIiwidCI6Ijk3OTAyMGQ1LTQ5NTAtNGY0My1hOTk0LTg4ZDY4M2VhYjQ3MyJ9&chromeless=1",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 4000
     }
   ]
 }
