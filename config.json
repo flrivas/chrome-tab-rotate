@@ -6,17 +6,12 @@
   "closeExistingTabs": false,
   "websites": [
     {
-      "url": "https://app.powerbi.com/view?r=eyJrIjoiMmM4NTAwMmItMTUzYi00MTdlLTk1NWItYzBiNjdmYzg2YzhkIiwidCI6Ijk3OTAyMGQ1LTQ5NTAtNGY0My1hOTk0LTg4ZDY4M2VhYjQ3MyJ9&chromeless=1",
+      "url": "https://app.powerbi.com/reportEmbed?reportId=5de1c37c-dde7-43e5-8a3e-afd3717a02a4&autoAuth=true&ctid=979020d5-4950-4f43-a994-88d683eab473",
       "duration": 5,
       "tabReloadIntervalSeconds": 4000
     },
     {
-      "url": "https://app.powerbi.com/view?r=eyJrIjoiNDBhOTZlYTUtMTdhMS00MTE0LWIzYmItMzE5MGRkNzE2ZGJjIiwidCI6Ijk3OTAyMGQ1LTQ5NTAtNGY0My1hOTk0LTg4ZDY4M2VhYjQ3MyJ9&chromeless=1",
-      "duration": 5,
-      "tabReloadIntervalSeconds": 4000
-    },
-    {
-      "url": "https://app.powerbi.com/view?r=eyJrIjoiN2JiMWQwNjQtZDYzYy00OWI0LWIzYTQtZmE4NDBlYmEyODdjIiwidCI6Ijk3OTAyMGQ1LTQ5NTAtNGY0My1hOTk0LTg4ZDY4M2VhYjQ3MyJ9&chromeless=1",
+      "url": "https://app.powerbi.com/reportEmbed?reportId=2141beff-cfea-44bf-9645-0d2e36b77462&autoAuth=true&ctid=979020d5-4950-4f43-a994-88d683eab473",
       "duration": 5,
       "tabReloadIntervalSeconds": 4000
     }
